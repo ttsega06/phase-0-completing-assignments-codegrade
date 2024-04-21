@@ -1,4 +1,4 @@
-# Complete Your First Software Engineering Assignment
+<!-- # Complete Your First Software Engineering Assignment -->
 
 ## Learning Goals
 
